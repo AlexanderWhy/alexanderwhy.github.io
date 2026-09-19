@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#1d4f91"/><text x="32" y="43" font-family="Georgia, serif" font-size="28" text-anchor="middle" fill="#ffffff">WHY</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">WHY gold monogram</title>
+  <desc id="desc">Clean gold WHY monogram on a dark background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2b3d"/>
+      <stop offset="100%" stop-color="#0c1320"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff7c2"/>
+      <stop offset="25%" stop-color="#f3d76d"/>
+      <stop offset="60%" stop-color="#d89b1d"/>
+      <stop offset="100%" stop-color="#8f5b08"/>
+    </linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.2" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <rect x="6" y="6" width="52" height="52" rx="12" fill="none" stroke="url(#gold)" stroke-width="1.5" opacity="0.9"/>
+  <text x="32" y="40" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="0.6" fill="url(#gold)" font-family="Segoe UI, Arial, sans-serif" filter="url(#shadow)">WHY</text>
+  <path d="M18 48h28" stroke="url(#gold)" stroke-width="1.3" stroke-linecap="round" opacity="0.9"/>
+</svg>
