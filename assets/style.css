@@ -145,3 +145,6 @@ summary { color: var(--primary); cursor: pointer; font-weight: 700; }
   *, *::before { scroll-behavior: auto !important; animation: none !important; transition: none !important; }
   .reveal { opacity: 1; transform: none; }
 }
+  .research-section h2 {
+  display: none;
+}
