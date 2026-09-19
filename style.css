@@ -60,10 +60,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 
 /* Header */
 .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.5rem 1.25rem; padding-top: 1.75rem; padding-bottom: 1.25rem; }
-.site-name { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; color: var(--fg); text-decoration: none; }
+.site-name { font-family: var(--serif); font-size: 1.1rem; font-weight: 600; color: var(--fg); text-decoration: none; }
 .site-name:hover { text-decoration: none; color: var(--accent); }
 nav { display: flex; align-items: center; gap: 1rem; }
-nav ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.15rem 1.1rem; margin: 0; padding: 0; }
+nav ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.15rem 1rem; margin: 0; padding: 0; }
 nav a { color: var(--muted); text-decoration: none; font-size: 0.97rem; padding: 0.2rem 0; border-bottom: 2px solid transparent; }
 nav a:hover { color: var(--fg); }
 nav a[aria-current="page"] { color: var(--fg); border-bottom-color: var(--accent); }

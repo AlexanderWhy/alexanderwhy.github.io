@@ -1,23 +1,23 @@
 # Academic website
 
+Static site for GitHub Pages. No build step, no dependencies.
 
 ## Publish
 
-1. Create a public repository named `YOUR-USERNAME.github.io` on GitHub.
+1. Create a public repository named `alexanderwhy.github.io` on GitHub.
 2. Upload everything in this folder to the repository root.
 3. In the repository, open Settings, then Pages, and set the source to the main branch.
-4. Your site appears at `https://YOUR-USERNAME.github.io` within a few minutes.
+4. Your site appears at `https://alexanderwhy.github.io` within a few minutes.
 
 ## Fill in the placeholders
 
 Placeholder text is highlighted in yellow (`class="todo"`). Search the HTML files for `todo`
 and replace each one, removing the surrounding `<span>` tag.
 
-- Your university, department, advisor, and PhD start year
+- Your advisor's name on the home page
 - Job market paper and working paper titles, coauthors, and abstracts
-- Contact email and affiliation, if your PhD institution gives you an address
-- Profile links (Google Scholar, SSRN, LinkedIn, GitHub) in the commented-out blocks
-- `YOUR-USERNAME` in every page's `<head>`, in `sitemap.xml`, and in `robots.txt`
+- Contact email, if you would rather use a different HKU address
+- Profile links (Google Scholar, SSRN, LinkedIn) in the commented-out blocks
 
 ## Files to add
 
