@@ -1,0 +1,2 @@
+/* The site pages reference assets/style.css. Keep the canonical stylesheet available there. */
+@import url("../style.css");
