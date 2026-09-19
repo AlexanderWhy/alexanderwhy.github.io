@@ -1,6 +1,5 @@
 # Academic website
 
-Static site for GitHub Pages. No build step, no dependencies.
 
 ## Publish
 
