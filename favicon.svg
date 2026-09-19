@@ -4,7 +4,6 @@
     <!-- deeper amber so white text stays readable -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#E8A317"/>
-      <stop offset="1" stop-color="#B86B06"/>
     </linearGradient>
     <!-- soft light from the top-left -->
     <radialGradient id="glow" cx="0.25" cy="0.15" r="0.9">
@@ -23,6 +22,6 @@
 
   <text x="32" y="40" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="20" font-weight="700" letter-spacing="-0.3"
+        font-size="22" font-weight="700" letter-spacing="-0.3"
         fill="#FFFBF0" filter="url(#shadow)">WHY</text>
 </svg>
