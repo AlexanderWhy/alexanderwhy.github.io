@@ -11,5 +11,5 @@
     </filter>
   </defs>
   <rect width="64" height="64" rx="14" fill="url(#gold)"/>
-  <text x="32" y="40" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="0.6" fill="#fff" font-family="Segoe UI, Arial, sans-serif" filter="url(#shadow)">WHY</text>
+  <text x="32" y="40" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="0.6" fill="#fff" font-family="Segoe UI, Arial, sans-serif" filter="url(#shadow)">WHY</text>
 </svg>
